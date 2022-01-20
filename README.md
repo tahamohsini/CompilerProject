@@ -28,11 +28,11 @@ run main.py file which reads input and writes report in output file and as well 
 just replace absolute paths of input and output files. 
 
 Directories:
-io-files    -->     main.py reads the input.txt file
-            -->     main.py writes report in output.txt file
+io-files:    1)     main.py reads the input.txt file
+             2)     main.py writes report in output.txt file
     
-pdfs        -->     languageSpecifications.pdf contain keywords, regexes etc
-            -->     CFGs.pdf contain all the rules of generally used commands by any programmer
+pdfs:        1)     languageSpecifications.pdf contain keywords, regexes etc
+             2)     CFGs.pdf contain all the rules of generally used commands by any programmer
 
 .
 .
