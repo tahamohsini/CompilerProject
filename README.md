@@ -33,3 +33,9 @@ Directories:
     
     pdfs        -->     languageSpecifications.pdf contain keywords, regexes etc
                 -->     CFGs.pdf contain all the rules of generally used commands by any programmer
+
+.
+.
+.
+
+Note:   semantic implementation isn't fully complete or functional right now, will be completed in short time (inshallah)
