@@ -1,0 +1,51 @@
+
+	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~
+						  R	  E	  P	  O	  R	  T
+	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~	~~~~~
+
+
+Last Updated Class:	cars
+Last Function Scope:	11
+Scope @ End:		0
+
+###########################################################################
+Main Table:
+
+Name:		'abc'
+Type:		'SYMBOL'
+TypeMod:	''
+Parent:		''
+Attributes:
+-------------------------
+Name:		'vehicles'
+Type:		'CLASS'
+TypeMod:	''
+Parent:		''
+Attributes:
+{'name': 'vehicles', 'params': '', 'type': 'vehicles', 'accessMod': 'PUBLIC', 'stat': '', 'concCond': ''}
+-------------------------
+Name:		'cars'
+Type:		'CLASS'
+TypeMod:	''
+Parent:		'vehicles,abc'
+Attributes:
+{'name': 'cars', 'params': '', 'type': 'cars', 'accessMod': 'PUBLIC', 'stat': '', 'concCond': ''}
+{'name': 'car', 'params': 'string,string,string', 'type': 'vehicles', 'accessMod': 'PUBLIC', 'stat': '', 'concCond': ''}
+{'name': 'carssssss', 'params': '', 'type': 'VOID', 'accessMod': 'PUBLIC', 'stat': '', 'concCond': ''}
+{'name': 'carssssss', 'params': 'int', 'type': 'VOID', 'accessMod': 'PUBLIC', 'stat': '', 'concCond': ''}
+{'name': 'Main', 'params': 'string', 'type': 'int', 'accessMod': 'PUBLIC', 'stat': '', 'concCond': ''}
+{'name': 'cars', 'params': 'int,float', 'type': 'cars', 'accessMod': 'PUBLIC', 'stat': '', 'concCond': ''}
+{'name': 'cars', 'params': 'float', 'type': 'cars', 'accessMod': 'PUBLIC', 'stat': '', 'concCond': ''}
+-------------------------
+
+###########################################################################
+Function Table:
+
+{'name': 'name', 'type': 'string', 'scope': 6}
+{'name': 'model', 'type': 'string', 'scope': 6}
+{'name': 'company', 'type': 'string', 'scope': 6}
+{'name': 'ab', 'type': 'int', 'scope': 8}
+{'name': 'args', 'type': 'string', 'scope': 9}
+{'name': 'a', 'type': 'int', 'scope': 10}
+{'name': 'b', 'type': 'float', 'scope': 10}
+{'name': 'a', 'type': 'float', 'scope': 11}

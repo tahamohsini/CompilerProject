@@ -1,0 +1,37 @@
+$#
+    class program {
+        public static float abc = a[i].a(b,c), b = 10, d = 50.5;
+
+        function public static AA ain (String[] args) {
+            int a = 1;
+            throw;
+        }
+
+        public int Main (StringSSSSS args,String[] args,AAAA[] args,int[] args) {
+            int b = 2, c = a+b;
+            String a = "hello";
+            while(a[i].fn(a,b).arr[a-b.c.fn(2,a-b*c<d.x*fn(),g)]++ * arr ) {
+                a.b.c.fn().x = a[i].fn(a,b).arr[a-b.c.fn(2,a-b*c<d.x*fn(),g)]++ * arr + 5;
+                b[i]++;
+            }
+        }
+    }
+#$
+
+
+symbol abc {}
+
+class vehicles {
+    vehicles () {}
+}
+
+class cars expands vehicles applies abc {
+    $ private concrete vehicles obj1 = new vehicles ();
+    public cars () {}
+    function public vehicles car (string name, string model, string company) {}
+    function public void carssssss () {}
+    function public void carssssss (int ab) {}
+    public int Main (string[] args) {}
+    public cars (int a, float b) {}
+    public cars (float a) {}
+}
